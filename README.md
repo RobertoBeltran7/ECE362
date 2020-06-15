@@ -1,4 +1,4 @@
-# **ECE 362: Microprocessor Systems and Interfacing **
+# **ECE 362: Microprocessor Systems and Interfacing**
 
 **Course Description:**
 An introduction to microcontroller instruction sets, assembly language programming, microcontroller interfacing, microcontroller peripherals, and embedded system design. 
@@ -29,8 +29,8 @@ This experiment introduces PWM and DAC for the STM32 mcu. The experiment uses a 
 - **Lab8: Introduction to DMA and SPI**<br/>
 This experiment introduces DMA and SPI on the STM32 mcu to interact with a CFAL1602 LCD display. The experiment uses both DMA and SPI to display different messages on the LCD display.
 
-- **Lab9: Introduction to DMA and SPI**<br/>
-This experiment introduces DMA and SPI on the STM32 mcu to interact with a CFAL1602 LCD display. The experiment uses both DMA and SPI to display different messages on the LCD display.
+- **Lab9: Introduction to I2C**<br/>
+This experiment introduces I2C with the STM32 mcu. The experiment uses I2C to read temperature data from a TC74A0-3.3VAT I2C thermal sensor and then uses a serial terminal program to display the information read from the sensor.
 
 - **Lab10: Introduction to USART**<br/>
 This experiment introduces USART implementation using a serial terminal program alongside the STM32 mcu. This experiment goes through the implementation of USART using a serial terminal program to display text input by a keyboard. It also uses USART to respond to commands input by the user and displays the appropiate information based on the input command.
