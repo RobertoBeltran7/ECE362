@@ -1,4 +1,4 @@
-# **ECE 270: Introduction to Digital System Design**
+# **ECE 362: Microprocessor Systems and Interfacing **
 
 **Course Description:**
 An introduction to microcontroller instruction sets, assembly language programming, microcontroller interfacing, microcontroller peripherals, and embedded system design. 
